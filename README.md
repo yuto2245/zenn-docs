@@ -4,6 +4,6 @@
 
 
 # Zenn CLIのコマンド
-- npx zenn new:srticle
+- npx zenn new:article
 - npx zenn new:book
 - npx zenn preview
